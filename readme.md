@@ -1,31 +1,38 @@
 METHOD 1 : <br>
-git - repo create <br>
-Enter <br>
-git clone < link > <br>
-Enter <br>
-git add . / git add index.html <br>
-Enter <br>
-git commit -m "msg" <br> 
-Enter <br>
-git push origin main <br>
+```
+git - repo create 
+Enter 
+git clone < link >
+Enter
+git add . / git add index.html 
+Enter 
+git commit -m "msg" 
+Enter 
+git push origin main 
+```
 
 
-#Tailwind CSS CLI
+## Tailwind CSS CLI
 <h1>Website</h1> 
-1. copy - npm install tailwindcss @tailwindcss/cli <br>
-2. copy - @import "tailwindcss"; <br>
-3. copy - npx @tailwindcss/cli -i ./input.css -o ./output. css --watch <br>
 
+```
+1. copy - npm install tailwindcss @tailwindcss/cli 
+2. copy - @import "tailwindcss"; 
+3. copy - npx @tailwindcss/cli -i ./input.css -o ./output. css --watch
+```
 
 <h1>VS Code</h1>
-1. Open Terminal <br>
-2. Paste cmd <br>
-3. Enter <br>
-4. Create index.html and input.css <br>
-5. index.html --> <link rel="stylesheet" href="./output.css"> <br>
-6. input.css --> @import "tailwindcss"; <br>
-7. package.json --> <br>
+
+```
+1. Open Terminal 
+2. Paste cmd 
+3. Enter 
+4. Create index.html and input.css 
+5. index.html --> <link rel="stylesheet" href="./output.css">
+6. input.css --> @import "tailwindcss"; 
+7. package.json --> 
     "scripts": {
         "start" : "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch"
-     }  <br>
+     }  
 8. npm run start
+```
