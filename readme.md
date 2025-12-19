@@ -1,4 +1,4 @@
-METHOD 1 : <br>
+Method 1 : <br>
 ```
 git - repo create 
 Enter 
@@ -9,6 +9,32 @@ Enter
 git commit -m "msg" 
 Enter 
 git push origin main 
+```
+
+Method 2 : <br>
+
+```
+git init
+enter
+git remote add
+enter
+git add .
+enter
+git commit -m "tailwind-cli"
+enter
+git push origin master
+enter
+```
+
+Method 3 : <br>
+
+```
+1. git branch --> How many branch in repo
+2. git brnach <branch name>
+   ex. git branch development
+3. git checkout <brach name>
+   ex. git checkout development 
+
 ```
 
 
