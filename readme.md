@@ -12,7 +12,6 @@ git push origin main
 ```
 
 Method 2 : <br>
-
 ```
 git init
 enter
@@ -27,7 +26,6 @@ enter
 ```
 
 Method 3 : <br>
-
 ```
 1. git branch --> How many branch in repo
 2. git brnach <branch name>
@@ -38,7 +36,6 @@ Method 3 : <br>
 ```
 
     
-
 ## Tailwind CSS CLI
 <h1>Website</h1> 
 
